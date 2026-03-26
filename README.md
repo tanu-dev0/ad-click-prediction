@@ -1,4 +1,4 @@
-# 📊 User Behavior Analysis for Ad Click Prediction
+#  User Behavior Analysis for Ad Click Prediction
 
 > **A Binary Classification Pipeline built with Scikit-Learn**
 
