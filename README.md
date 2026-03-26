@@ -114,6 +114,6 @@ ad-click-prediction/
 
 ---
 
-## 👩 Author
+##  Author
 
 Tanu Sharma
